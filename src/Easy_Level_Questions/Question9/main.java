@@ -9,7 +9,7 @@ public class main {
         int b;
         int c;
         int d;
-        System.out.println("Enter the value for real");
+        System.out.println("Enter the value for reaL");
         a = val.nextInt();
         System.out.println("Enter the value for img");
         b = val.nextInt();

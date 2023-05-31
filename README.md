@@ -1,4 +1,4 @@
-****# Java Programming Examples****
+# Java Programming Examples
 This repository contains examples of Java programming concepts, including data types, control structures, arrays, classes, and more. Each example includes a description of the concept and a working code sample.
 
 # Getting Started
